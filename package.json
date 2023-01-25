@@ -1,0 +1,22 @@
+{
+  "name": "unittest_practice",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GraceHtet/UnitTest_Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GraceHtet/UnitTest_Practice/issues"
+  },
+  "homepage": "https://github.com/GraceHtet/UnitTest_Practice#readme",
+  "devDependencies": {
+    "jest": "^29.4.0"
+  }
+}
